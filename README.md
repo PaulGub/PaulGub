@@ -1,5 +1,7 @@
 - 👋 Salut, Je suis Paul Gubbiotti
 - Développeur Web NextJS et Laravel
+- En alternance chez [3CODES](https://www.3codes.io/)
+- Je fais aussi des sites en autonomie [par exemple](https://www.angeetvie.fr/)
 
 # 🛠 Environnement technique
 
@@ -27,7 +29,7 @@
 
 ### Frameworks & Libraries
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
-[![Laravel](https://img.shields.io/badge/Laravel-323330?style=for-the-badge&logo=laravel&logoColor=red)](https://expressjs.com/fr/)
+[![Laravel](https://img.shields.io/badge/Laravel-323330?style=for-the-badge&logo=laravel&logoColor=red)](https://laravel.com/)
 
 
 ## Autres technologies
