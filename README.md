@@ -1,7 +1,7 @@
 - 👋 Salut, Je suis Paul Gubbiotti
 - Développeur Web
 - En alternance chez [3CODES](https://www.3codes.io/)
-- Je fais aussi des sites en autonomie [par exemple](https://www.angeetvie.fr/)
+- N'hésitez pas à aller voir mon [portfolio](https://www.gubbiotti.fr/)
 
 # 🛠 Environnement technique
 
