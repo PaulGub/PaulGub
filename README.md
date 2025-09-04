@@ -1,6 +1,5 @@
 - 👋 Salut, Je suis Paul Gubbiotti
-- Assistant marketing chez Bacqueyrisses
-- Développeur Web
+- Attaché marketing et numérique
 - N'hésitez pas à aller voir mon [portfolio](https://www.gubbiotti.fr/)
 
 # 🛠 Environnement technique
