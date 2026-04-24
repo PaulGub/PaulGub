@@ -1,5 +1,5 @@
 - 👋 Salut, Je suis Paul Gubbiotti
-- Attaché marketing et numérique
+- Attaché Communication & Systèmes d’Information
 - N'hésitez pas à aller voir mon [portfolio](https://www.gubbiotti.fr/)
 
 # 🛠 Environnement technique
